@@ -30,7 +30,7 @@ namespace TECHIS.Cloud.ActivityMetrics.AzureTable.Test
 
         private string[] _SubjectTypeIds = { "1", "2", "3", "4", "5" };
 
-        private string[] _Actors = { "john", "manbij", "ike", "ari", "leena", "mary" };
+        private string[] _Actors = { "john", "manbij", "ike", "ari", "kina", "mary" };
         private string[] _ValueTypes = { "like", "smile", "dislike", "love", "hate", "upset" };
         private MetricsGeneratorFactory<long, EntityProperty, Configuration> _MetricGeneratorFactory = new MetricsGeneratorFactory<long, EntityProperty, Configuration>();
 

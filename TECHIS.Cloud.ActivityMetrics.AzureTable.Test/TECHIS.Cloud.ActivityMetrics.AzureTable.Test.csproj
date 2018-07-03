@@ -315,10 +315,8 @@
     <Compile Include="MetricHistoryEntry.cs" />
     <Compile Include="MetricUtil.cs" />
     <Compile Include="QueryTests.cs" />
-    <Compile Include="Connections.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ActivityTrackerTests.cs" />
-    <Compile Include="CountGeneratorTests.cs" />
     <Compile Include="TableNames.cs" />
   </ItemGroup>
   <ItemGroup>
